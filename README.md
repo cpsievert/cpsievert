@@ -6,6 +6,6 @@ I also:
 
 📚 Wrote a book, ["Interactive web-based data visualization with R, plotly, and shiny"](https://plotly-r.com/)
 
-💼 [Do consulting](https://consulting.cpsievert.me/) to keep my statistical and applied data science skills sharp
+💼 [Consult](https://consulting.cpsievert.me/) to help keep my applied data science skills sharp
 
-📈 Have a [PhD in statistics](https://www.proquest.com/openview/3a91971f82fd4af20a78bebb079f5035) and have [won awards](https://community.amstat.org/jointscsg-section/awards/john-m-chambers) for my contributions to the field.
+🏆 Have a [PhD in statistics](https://www.proquest.com/openview/3a91971f82fd4af20a78bebb079f5035) and have [won awards](https://community.amstat.org/jointscsg-section/awards/john-m-chambers) for my contributions to the field.
