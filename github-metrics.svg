@@ -466,17 +466,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 78.28256507023693%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">98%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 1.683888938808518%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">2%</span>
+                            <div class="bar" style="width: 79.93823527163485%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 0.033545990954563155%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.03424578998463526%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 0.027518938380510474%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -484,7 +484,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2022, 13:07:33 (timezone America/Chicago) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 14:09:26 (timezone America/Chicago) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
