@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a senior software engineer on the [Shiny](https://github.com/rstudio/shiny) team at [Posit](https://posit.co/) where we build tools that enable data scientists to more easily develop analytical websites. In addition to contributing to Shiny and the Shiny stack/ecosystem (e.g., [htmltools](https://github.com/rstudio/htmltools), [htmlwidgets](https://github.com/rstudio/htmlwidgets), [sass](https://github.com/rstudio/sass), [bslib](https://github.com/rstudio/bslib), etc), I also maintain the [plotly R package](https://github.com/plotly/plotly.R) and have done so for [many years](https://github.com/plotly/plotly.R/graphs/contributors).
+I'm a principal software engineer on the [Shiny](https://github.com/rstudio/shiny) team at [Posit](https://posit.co/) where we build tools that enable data scientists to more easily develop analytical websites. In addition to contributing to Shiny and the Shiny stack/ecosystem (e.g., [htmltools](https://github.com/rstudio/htmltools), [htmlwidgets](https://github.com/rstudio/htmlwidgets), [sass](https://github.com/rstudio/sass), [bslib](https://github.com/rstudio/bslib), etc), I also maintain the [plotly R package](https://github.com/plotly/plotly.R) and have done so for [many years](https://github.com/plotly/plotly.R/graphs/contributors).
 
 I also:
 
